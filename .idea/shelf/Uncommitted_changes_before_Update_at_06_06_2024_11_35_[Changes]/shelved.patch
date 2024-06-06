@@ -1,0 +1,28 @@
+Index: out/production/ContaBanco/README.md
+===================================================================
+diff --git a/out/production/ContaBanco/README.md b/out/production/ContaBanco/README.md
+deleted file mode 100644
+--- a/out/production/ContaBanco/README.md	(revision e8b5160e6bc574e0c1612cbff922fbf86c8c5cc2)
++++ /dev/null	(revision e8b5160e6bc574e0c1612cbff922fbf86c8c5cc2)
+@@ -1,2 +0,0 @@
+-# dio-java
+-register of my journey in java with DIO
+Index: out/production/ContaBanco/.idea/ContaBanco.iml
+===================================================================
+diff --git a/out/production/ContaBanco/.idea/ContaBanco.iml b/out/production/ContaBanco/.idea/ContaBanco.iml
+deleted file mode 100644
+--- a/out/production/ContaBanco/.idea/ContaBanco.iml	(revision e8b5160e6bc574e0c1612cbff922fbf86c8c5cc2)
++++ /dev/null	(revision e8b5160e6bc574e0c1612cbff922fbf86c8c5cc2)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
