@@ -4,7 +4,7 @@ public class ContaTerminal {
 
     static int numeroConta;
     static String numeroAgencia;
-    static String nomeCLiente;
+    static String nomeCliente;
     static float saldoConta;
 
     public static void CriarConta(){
@@ -21,7 +21,7 @@ public class ContaTerminal {
         scanner.nextLine();
 
         System.out.println("Por favor, digite o nome do Cliente! :");
-        nomeCLiente = scanner.nextLine();
+        nomeCliente = scanner.nextLine();
 
         System.out.println("Por favor, digite o saldo da Conta! :");
         saldoConta = scanner.nextFloat();
@@ -31,7 +31,7 @@ public class ContaTerminal {
     }
 
     public static void MensagemSistema(){
-        System.out.println("Olá " + nomeCLiente + ", obrigado por criar uma conta em nosso banco, sua agência é " + numeroAgencia + ", conta " + numeroConta +
+        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + numeroAgencia + ", conta " + numeroConta +
                 " e seu saldo " + saldoConta + " já está disponível para saque. ");
     }
 
