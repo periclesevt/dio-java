@@ -23,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "periclesevt"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1cd5dc87-6382-4eee-99b4-3583c7f6b843" />
+        <option name="url" value="https://github.com/periclesevt/dio-java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -92,6 +106,7 @@
       <workItem from="1717510472885" duration="9638000" />
       <workItem from="1717558381484" duration="2029000" />
       <workItem from="1717641850499" duration="6212000" />
+      <workItem from="1717684398028" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="Criação e lógica exercício ContaTerminal">
       <option name="closed" value="true" />
@@ -149,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717649039002</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix README">
+      <option name="closed" value="true" />
+      <created>1717684598163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717684598163</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix workspace">
+      <option name="closed" value="true" />
+      <created>1717684657477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717684657477</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +202,7 @@
     <MESSAGE value="fix camelCase nomeCliente" />
     <MESSAGE value="fix directory" />
     <MESSAGE value="fix README" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix README" />
+    <MESSAGE value="fix workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix workspace" />
   </component>
 </project>
