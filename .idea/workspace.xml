@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0add125-2e14-444a-b94b-059572d311b4" name="Changes" comment="fix README">
-      <change beforePath="$PROJECT_DIR$/out/production/ContaBanco/.idea/ContaBanco.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ContaBanco/README.md" beforeDir="false" />
+    <list default="true" id="f4912442-d7c3-4fa4-b650-9dc4dab122d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_06_2024_11_35_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_06_2024_11_35__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContaBanco/src/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/ContaBanco/src/ContaTerminal/ContaTerminal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,71 +26,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "periclesevt"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="1cd5dc87-6382-4eee-99b4-3583c7f6b843" />
-        <option name="url" value="https://github.com/periclesevt/dio-java.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2hPzOrMO496jU23hibbO3QKNfqx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2hVh8RMh81VNEpPiz0bieoyyLkw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AboutMe.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContaTerminal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TiposVariaveis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Usuario.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CaixaEletronico.executor": "Run",
+    "Application.FormatadorCep.executor": "Run",
+    "Application.ProcessoSeletivo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="dio-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="dio-java" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,111 +67,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b0add125-2e14-444a-b94b-059572d311b4" name="Changes" comment="" />
-      <created>1717510471581</created>
+      <changelist id="f4912442-d7c3-4fa4-b650-9dc4dab122d9" name="Changes" comment="" />
+      <created>1717684993859</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1717510471581</updated>
-      <workItem from="1717510472885" duration="9638000" />
-      <workItem from="1717558381484" duration="2029000" />
-      <workItem from="1717641850499" duration="6212000" />
-      <workItem from="1717684398028" duration="284000" />
+      <updated>1717684993859</updated>
+      <workItem from="1717684996289" duration="3437000" />
+      <workItem from="1717879199277" duration="5619000" />
+      <workItem from="1717942134717" duration="4794000" />
+      <workItem from="1717961468138" duration="2511000" />
     </task>
-    <task id="LOCAL-00001" summary="Criação e lógica exercício ContaTerminal">
-      <option name="closed" value="true" />
-      <created>1717647661300</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1717647661300</updated>
-    </task>
-    <task id="LOCAL-00002" summary="fix camelCase nomeCliente">
-      <option name="closed" value="true" />
-      <created>1717648250009</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1717648250009</updated>
-    </task>
-    <task id="LOCAL-00003" summary="fix directory">
-      <option name="closed" value="true" />
-      <created>1717648838639</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1717648838639</updated>
-    </task>
-    <task id="LOCAL-00004" summary="fix directory">
-      <option name="closed" value="true" />
-      <created>1717648888678</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1717648888678</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fix directory">
-      <option name="closed" value="true" />
-      <created>1717648906780</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1717648906780</updated>
-    </task>
-    <task id="LOCAL-00006" summary="fix README">
-      <option name="closed" value="true" />
-      <created>1717648919234</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1717648919234</updated>
-    </task>
-    <task id="LOCAL-00007" summary="fix README">
-      <option name="closed" value="true" />
-      <created>1717649039002</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1717649039002</updated>
-    </task>
-    <task id="LOCAL-00008" summary="fix README">
-      <option name="closed" value="true" />
-      <created>1717684598163</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1717684598163</updated>
-    </task>
-    <task id="LOCAL-00009" summary="fix workspace">
-      <option name="closed" value="true" />
-      <created>1717684657477</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1717684657477</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criação e lógica exercício ContaTerminal" />
-    <MESSAGE value="fix camelCase nomeCliente" />
-    <MESSAGE value="fix directory" />
-    <MESSAGE value="fix README" />
-    <MESSAGE value="fix workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix workspace" />
   </component>
 </project>
