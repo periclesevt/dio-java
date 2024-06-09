@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4912442-d7c3-4fa4-b650-9dc4dab122d9" name="Changes" comment="add ProcessoSeletivo">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContaBanco/src/ContaTerminal/ContaTerminal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContaBanco/src/ProcessoSeletivo/ProcessoSeletivo.java" beforeDir="false" />
-    </list>
+    <list default="true" id="f4912442-d7c3-4fa4-b650-9dc4dab122d9" name="Changes" comment="add ProcessoSeletivo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -94,7 +92,7 @@
       <workItem from="1717879199277" duration="5619000" />
       <workItem from="1717942134717" duration="4794000" />
       <workItem from="1717961468138" duration="2729000" />
-      <workItem from="1717966733666" duration="78000" />
+      <workItem from="1717966733666" duration="445000" />
     </task>
     <task id="LOCAL-00001" summary="add ProcessoSeletivo">
       <option name="closed" value="true" />
@@ -104,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717966515034</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add ProcessoSeletivo">
+      <option name="closed" value="true" />
+      <created>1717966840600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717966840600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
