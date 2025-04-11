@@ -49,6 +49,36 @@ public class ContaBancaria {
                 double dividaRestante = valorTotalNecessario - valor;
                 saldo = -dividaRestante;
             }
+
+            saldo = Math.max(saldo, -chequeEspecialOriginal);
+        } else {
+            saldo += valor;
         }
+    }
+
+    public void sacar (double valor){
+        if (valor <= 0){
+            throw new IllegalArgumentException("Valor do saque deve ser positivo");
+        }
+
+        double saldoDisponivel = saldo + chequeEspecialLimite;
+        if (valor > saldoDisponivel){
+            throw new IllegalArgumentException("Saldo insuficiente para saque");
+        }
+
+        saldo -= valor;
+    }
+
+    public void pagarBoleto(double valor){
+        if (valor <= 0){
+            throw new IllegalArgumentException("Valor do boleto deve ser positivo");
+        }
+
+        double saldoDisponivel = saldo + chequeEspecialLimite;
+        if (valor > saldoDisponivel){
+            throw new IllegalArgumentException("Saldo insuficiente para pagar boleto");
+        }
+
+        saldo -= valor;
     }
 }
