@@ -13,7 +13,7 @@ public class Main {
     private static void exibirDadosConta(ContaBancaria conta){
         System.out.println("Saldo: R$" + conta.consultarSaldo());
         System.out.println("Limite Cheque Especial: R$" + conta.consultarChequeEspecial());
-        System.out.println("Usando Cheque Especial?" + (conta.estaUsandoChequeEspecial() ? "Sim" : "Nao"));
+        System.out.println("Usando Cheque Especial? " + (conta.estaUsandoChequeEspecial() ? "Sim" : "Nao"));
     }
 
 
