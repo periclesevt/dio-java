@@ -1,6 +1,6 @@
 package Relogio;
 
-public class USClock extends Clock{
+public non-sealed class USClock extends Clock{
 
     private String periodIndicator;
 
@@ -32,6 +32,21 @@ public class USClock extends Clock{
 
     @Override
     Clock convert(Clock clock) {
-        return null;
+
+        this.second = clock.getSecond();
+        this.minute = clock.getMinute();
+        switch (clock){
+            case USClock usClock -> {
+                this.hour = usClock.getHour();
+                this.periodIndicator = usClock.getPeriodIndicator();
+            }
+            case BRLClock brlClock -> this.setHour(brlClock.getHour());
+        }
+        return this;
+    }
+
+    @Override
+    public String getTime() {
+        return super.getTime() + " " + this.periodIndicator;
     }
 }
