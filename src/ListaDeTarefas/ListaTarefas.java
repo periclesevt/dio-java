@@ -33,19 +33,19 @@ public class ListaTarefas {
         System.out.println(tarefaList);
     }
 
-    public static void main(String[] args) {
-        ListaTarefas listaTarefas = new ListaTarefas();
-
-        System.out.println("O numero total de elementos na lista eh: " + listaTarefas.obterNumeroTotalTarefas());
-
-        listaTarefas.adicionarTarefa("Tarefa 1");
-        listaTarefas.adicionarTarefa("Tarefa 1");
-        listaTarefas.adicionarTarefa("Tarefa 3");
-        System.out.println("O numero total de elementos na lista eh: " + listaTarefas.obterNumeroTotalTarefas());
-
-        listaTarefas.removerTarefa("Tarefa 1");
-        System.out.println("O numero total de elementos na lista eh: " + listaTarefas.obterNumeroTotalTarefas());
-
-        listaTarefas.obterDescricoesTarefas();
-    }
+//    public static void main(String[] args) {
+//        ListaTarefas listaTarefas = new ListaTarefas();
+//
+//        System.out.println("O numero total de elementos na lista eh: " + listaTarefas.obterNumeroTotalTarefas());
+//
+//        listaTarefas.adicionarTarefa("Tarefa 1");
+//        listaTarefas.adicionarTarefa("Tarefa 1");
+//        listaTarefas.adicionarTarefa("Tarefa 3");
+//        System.out.println("O numero total de elementos na lista eh: " + listaTarefas.obterNumeroTotalTarefas());
+//
+//        listaTarefas.removerTarefa("Tarefa 1");
+//        System.out.println("O numero total de elementos na lista eh: " + listaTarefas.obterNumeroTotalTarefas());
+//
+//        listaTarefas.obterDescricoesTarefas();
+//    }
 }
