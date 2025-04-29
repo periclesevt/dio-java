@@ -27,7 +27,7 @@ public class Dicionario {
         if (definicao != null) {
             return definicao;
         }
-        return "Linguagem não encontrada no dicionário.";
+        return "Linguagem não encontrada";
     }
 
     public void exibirPalavras() {
